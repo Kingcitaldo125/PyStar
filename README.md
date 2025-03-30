@@ -13,6 +13,8 @@ This is mainly just [PyGame](https://www.pygame.org/wiki/GettingStarted).
 
 ## Running
 
+Simply run the script with `python astar.py`.
+
 Use the left mouse button to select cells and the right mouse button to modify the terrain on the map.
 Click on one cell to mark it as a start cell and a second cell to mark it as the end cell for the search algorithm.
 Terrain must be modified prior to making your start/end cell selections.
